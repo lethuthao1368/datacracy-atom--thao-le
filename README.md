@@ -1,4 +1,4 @@
-# datacracy-atom--thao-le-
+# datacracy-atom--thao-le
 1. Github dùng để làm gì:
 - Là nền tảng (web) lưu trữ source code (script), có thể trao đổi, chia sẻ code
 - Khá giống 1 scocial networking => build profie thông qua các project, các hành động chỉnh sửa code
